@@ -1,4 +1,4 @@
-# 🎤 Emotion Recognition using CNN + LSTM
+# Emotion Recognition using CNN + LSTM
 
 This project detects human emotions from speech audio using deep learning.
 
